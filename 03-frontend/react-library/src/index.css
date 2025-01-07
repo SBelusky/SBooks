@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+        'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.separator {
+    border-left: 1px solid rgba(255, 255, 255, 0.55); /* Biela vertikálna čiara */
+    height: 1.5em; /* Výška čiary (nastavte podľa potreby) */
+    margin: auto 1px; /* Priestor okolo čiary */
+}
